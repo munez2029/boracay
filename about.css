@@ -43,8 +43,9 @@ body{
   min-height: 100vh;
 }
 
-img{
-  width:100%;
+.card img{
+  width: 100%;
   height: 300px;
 }
+
 
